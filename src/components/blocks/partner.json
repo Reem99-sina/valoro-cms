@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_blocks_partners",
+  "info": {
+    "displayName": "partner"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "logo": {
+      "type": "component",
+      "component": "elements.project-logo",
+      "repeatable": false
+    }
+  },
+  "config": {}
+}

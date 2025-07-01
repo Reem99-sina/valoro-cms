@@ -1,0 +1,20 @@
+{
+  "collectionName": "projects",
+  "info": {
+    "displayName": "projects"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    },
+    "icons": {
+      "type": "component",
+      "component": "elements.project-logo",
+      "repeatable": false
+    }
+  }
+}

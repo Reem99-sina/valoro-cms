@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_blocks_kpi_cards",
+  "info": {
+    "displayName": "kpi-card",
+    "icon": "feather"
+  },
+  "options": {},
+  "attributes": {
+     "cards": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.card"
+    }
+  },
+  "config": {}
+}

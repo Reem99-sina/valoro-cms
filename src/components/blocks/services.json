@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_blocks_services",
+  "info": {
+    "displayName": "Services"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "bullets": {
+      "type": "component",
+      "component": "elements.bullets",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}
